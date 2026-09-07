@@ -1,4 +1,4 @@
-# Environment Project Code of Conduct
+# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 We as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
@@ -29,6 +29,9 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 This Code of Conduct applies within all project spaces, and also applies when an individual is officially representing the project or its community in public spaces. Examples of representing our project or community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at [INSERT EMAIL ADDRESS]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at vishalbharaths23@example.com. All complaints will be reviewed and investigated promptly and fairly.
 
 All project maintainers are obligated to respect the privacy and security of the reporter of any incident.
+
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://contributor-covenant.org.
