@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A simple command-line Bash script that calculates simple interest based on user inputs for principal amount, annual rate of interest, and time period (in years).
+A command-line Bash script that calculates simple interest given the principal amount, annual rate of interest, and time period in years.
 
 ## Description
 This project is part of the Git and GitHub final project evaluation. It contains a shell script `simple-interest.sh` designed to compute basic interest using the standard formula:
